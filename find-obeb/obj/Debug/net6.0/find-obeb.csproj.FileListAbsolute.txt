@@ -1,0 +1,14 @@
+C:\Users\Samet\Desktop\find-obeb\find-obeb\bin\Debug\net6.0\find-obeb.exe
+C:\Users\Samet\Desktop\find-obeb\find-obeb\bin\Debug\net6.0\find-obeb.deps.json
+C:\Users\Samet\Desktop\find-obeb\find-obeb\bin\Debug\net6.0\find-obeb.runtimeconfig.json
+C:\Users\Samet\Desktop\find-obeb\find-obeb\bin\Debug\net6.0\find-obeb.dll
+C:\Users\Samet\Desktop\find-obeb\find-obeb\bin\Debug\net6.0\find-obeb.pdb
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\find-obeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\find-obeb.AssemblyInfoInputs.cache
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\find-obeb.AssemblyInfo.cs
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\find-obeb.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\find-obeb.dll
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\refint\find-obeb.dll
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\find-obeb.pdb
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\find-obeb.genruntimeconfig.cache
+C:\Users\Samet\Desktop\find-obeb\find-obeb\obj\Debug\net6.0\ref\find-obeb.dll
